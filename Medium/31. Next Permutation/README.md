@@ -1,1 +1,1 @@
-(31. Next Permutation)[https://leetcode.com/problems/next-permutation/description/]
+[31. Next Permutation](https://leetcode.com/problems/next-permutation/description/)
