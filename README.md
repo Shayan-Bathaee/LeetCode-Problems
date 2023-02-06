@@ -9,6 +9,8 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/).
 ### Easy
 [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 
+[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+
 [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 
 ### Medium
@@ -17,3 +19,5 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/).
 [231. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 ### Hard
+[2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/)
+
