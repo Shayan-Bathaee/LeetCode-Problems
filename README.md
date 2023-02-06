@@ -19,5 +19,7 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/).
 [231. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 ### Hard
+[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
 [2127. Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/)
 
