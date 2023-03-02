@@ -18,6 +18,8 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/).
 
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
+[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 
 [231. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
