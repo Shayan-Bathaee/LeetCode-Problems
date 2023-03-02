@@ -16,6 +16,8 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/).
 ### Medium
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 
 [231. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
