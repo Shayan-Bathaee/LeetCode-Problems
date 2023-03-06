@@ -22,6 +22,8 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/).
 
 [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
 
+[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 
 [231. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
