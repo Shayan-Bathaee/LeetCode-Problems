@@ -5,9 +5,11 @@ To see the original question for any of my solutions, simply navigate to the que
 
 Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/).
 
-## Problems in this repository
+## Original descriptions of problems in this repository
 ### Easy
 [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 
