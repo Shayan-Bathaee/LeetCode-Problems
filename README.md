@@ -1,10 +1,10 @@
 # LeetCode Problems
 This repository is a collection of some of my solutions to LeetCode problems! Here is how it's organized:
 
-- Original problem descriptions are at the bottom of this readme
-- My solutions are above, sorted into easy, medium, and hard categories
-- Each solution has a small description in comments at the top
-- Every folder containing a solution has a link to the original problem
+- Original problem descriptions are at the bottom of this readme.
+- My solutions are above, sorted into easy, medium, and hard categories.
+- Each solution has a small description in comments at the top.
+- Every folder containing a solution has a link to the original problem.
 
 Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/)!
 
