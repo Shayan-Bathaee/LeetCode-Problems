@@ -14,6 +14,8 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/)!
 
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 
+[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 
 [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
