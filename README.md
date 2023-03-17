@@ -16,6 +16,8 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/)!
 
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 
 [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
