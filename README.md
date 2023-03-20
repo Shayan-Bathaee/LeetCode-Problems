@@ -20,6 +20,8 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/)!
 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
 [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 
 ### Medium
@@ -40,8 +42,6 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/)!
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/)
-
-[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 
 [231. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
