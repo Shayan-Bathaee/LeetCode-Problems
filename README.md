@@ -41,6 +41,8 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/)!
 
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/)
 
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
 [231. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
 ### Hard
