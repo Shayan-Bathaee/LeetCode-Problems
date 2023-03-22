@@ -22,6 +22,8 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/)!
 
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 
+[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+
 [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 
 ### Medium
