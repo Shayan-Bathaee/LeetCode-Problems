@@ -24,6 +24,8 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/)!
 
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 
+[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+
 [1984. Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
 
 ### Medium
