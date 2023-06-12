@@ -20,6 +20,8 @@ Here's a link to my [LeetCode Profile](https://leetcode.com/sbathaee/)!
 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 
+[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
+
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
